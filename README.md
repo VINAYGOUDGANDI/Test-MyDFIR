@@ -6,7 +6,7 @@
 I am a recent graduate with a profound interest in Cyber Opertions and a dedication to solving complex problems.
 
 ## Objective
-With a strong foundation in cybersecurity and hands-on experience in tools like Nmap, Metasploit, and Kali Linux, I am eager to transition into the field of cyber operations. Having completed my master's in cybersecurity from Webster University and earning certifications like CompTIA Security+ and the Google Cybersecurity Certificate, I am now looking to join a Security Operations Center (SOC) as a Tier 1 Analyst. My goal is to apply my skills in threat detection, vulnerability assessment, and incident response to contribute effectively to a cybersecurity team.## Skills
+With a strong foundation in cybersecurity and hands-on experience in tools like Nmap, Metasploit, and Kali Linux, I am eager to transition into the field of cyber operations. Having completed my master's in cybersecurity from Webster University and earning certifications like CompTIA Security+ and the Google Cybersecurity Certificate, I am now looking to join a Security Operations Center (SOC) as a Tier 1 Analyst. My goal is to apply my skills in threat detection, vulnerability assessment, and incident response to contribute effectively to a cybersecurity team.
 
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
